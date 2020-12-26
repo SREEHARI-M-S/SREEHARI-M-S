@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+📊 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
 Week: 18 December, 2020 - 25 December, 2020
