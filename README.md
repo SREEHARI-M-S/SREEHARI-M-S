@@ -1,5 +1,10 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
+```text
+JavaScript   29 mins         █████████████████████▓░░░   86.62 % 
+Python       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+```
 <!--END_SECTION:waka-->
 <!--
 **SREEHARI-M-S/SREEHARI-M-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
