@@ -3,9 +3,9 @@
 📊 __This week I spent my time on__
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2020 - 05 January, 2021
+Week: 30 December, 2020 - 06 January, 2021
 
-Python   1 hr 40 mins    █████████████████████████   100.00 % 
+Python   25 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 <!--
