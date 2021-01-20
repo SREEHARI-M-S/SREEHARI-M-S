@@ -3,9 +3,7 @@
 📊 __This week I spent my time on__
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2021 - 18 January, 2021
-
-C   10 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <!--
