@@ -3,7 +3,7 @@
 📊 __This week I spent my time on__
 <!--START_SECTION:waka-->
 ```text
-Week: 25 January, 2021 - 01 February, 2021
+Week: 26 January, 2021 - 02 February, 2021
 
 TypeScript   7 hrs 2 mins    ███████████████████░░░░░░   76.00 % 
 JSON         1 hr 12 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 % 
