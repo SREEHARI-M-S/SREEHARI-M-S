@@ -3,10 +3,7 @@
 📊 __This week I spent my time on__
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2021 - 12 February, 2021
-
-Python     1 hr 26 mins    ████████████████████████▒   97.23 % 
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <!--
