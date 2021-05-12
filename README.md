@@ -3,9 +3,9 @@
 📊 __This week I spent my time on__
 <!--START_SECTION:waka-->
 ```text
-Week: 03 May, 2021 - 10 May, 2021
+Week: 04 May, 2021 - 11 May, 2021
 
-
+JSON         4 mins          ████████████████████████▓   98.19 % 
 ```
 <!--END_SECTION:waka-->
 <!--
