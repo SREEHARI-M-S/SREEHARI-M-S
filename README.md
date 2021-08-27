@@ -3,7 +3,7 @@
 📊 __This week I spent my time on__
 <!--START_SECTION:waka-->
 ```text
-Week: 19 August, 2021 - 25 August, 2021
+Week: 20 August, 2021 - 26 August, 2021
 
 JavaScript   1 min           ██████████████▓░░░░░░░░░░   58.59 % 
 ```
