@@ -3,7 +3,7 @@
 📊 __This week I spent my time on__
 <!--START_SECTION:waka-->
 ```text
-Week: 07 September, 2021 - 13 September, 2021
+Week: 08 September, 2021 - 14 September, 2021
 
 JSX          1 hr 51 mins    ██████████████▒░░░░░░░░░░   57.78 % 
 JavaScript   34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.98 % 
