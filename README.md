@@ -3,7 +3,7 @@
 📊 __This week I spent my time on__
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2021 - 03 November, 2021
+Week: 29 October, 2021 - 04 November, 2021
 
 Python       2 hrs 13 mins   ██████████▓░░░░░░░░░░░░░░   42.86 % 
 Vue.js       1 hr 22 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.67 % 
