@@ -3,10 +3,7 @@
 📊 __This week I spent my time on__
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
-
-C++      58 mins         █████████████▓░░░░░░░░░░░   54.24 % 
-Python   49 mins         ███████████▒░░░░░░░░░░░░░   45.76 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <!--
