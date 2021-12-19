@@ -3,7 +3,9 @@
 📊 __This week I spent my time on__
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 December, 2021 - 18 December, 2021
+
+Python   1 hr 10 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 <!--
