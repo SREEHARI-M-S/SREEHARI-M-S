@@ -3,7 +3,9 @@
 📊 __This week I spent my time on__
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 24 December, 2021 - 30 December, 2021
+
+
 ```
 <!--END_SECTION:waka-->
 <!--
