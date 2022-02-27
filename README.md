@@ -3,7 +3,10 @@
 📊 __This week I spent my time on__
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+From: 17 February, 2022 - To: 24 February, 2022
+
+Python   13 mins         ████████████████████░░░░░   79.48 % 
+C++      3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.21 % 
 ```
 <!--END_SECTION:waka-->
 <!--
