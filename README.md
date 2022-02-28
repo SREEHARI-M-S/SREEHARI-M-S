@@ -2,12 +2,15 @@
 
 📊 __This week I spent my time on__
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-Python   13 mins         ████████████████████░░░░░   79.48 % 
-C++      3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.21 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Python   3 hrs 8 mins    ███████████████████████▓░   94.39 %
+Text     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+C++      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
+
 <!--END_SECTION:waka-->
 <!--
 **SREEHARI-M-S/SREEHARI-M-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
