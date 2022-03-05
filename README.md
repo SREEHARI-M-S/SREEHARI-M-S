@@ -4,10 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 February 2022 - To: 03 March 2022
-
-Python   2 hrs 54 mins   ████████████████████████░   95.77 %
-Text     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
