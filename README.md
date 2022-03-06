@@ -4,7 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 February 2022 - To: 05 March 2022
+
+Text   14 mins         ████████████████████▓░░░░   82.00 %
+CSV    3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
 ```
 
 <!--END_SECTION:waka-->
