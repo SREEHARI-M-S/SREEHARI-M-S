@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2022 - To: 20 April 2022
+From: 14 April 2022 - To: 21 April 2022
 
 Vue.js       15 mins         ███████████████░░░░░░░░░░   60.26 %
 JavaScript   6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
