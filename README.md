@@ -4,12 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 April 2022 - To: 26 April 2022
-
-Vue.js       15 mins         ███████████████░░░░░░░░░░   60.26 %
-JavaScript   6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
-JSON         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
