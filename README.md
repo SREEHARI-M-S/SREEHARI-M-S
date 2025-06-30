@@ -9,11 +9,10 @@ No activity tracked
 
 ### 🛠️ __Core Skills & Interests__
 ```
-Languages & Frameworks: Python, Java, JavaScript  
+Languages & Frameworks: Python, Java, JavaScript, Pytorch
 Infrastructure & DevOps: Docker, Kubernetes  
 Cloud Platforms: Google Cloud Platform, Amazon Web Services
 Observability & Monitoring: Grafana, ELK Stack
-Research Interests: Distributed Systems, AI Model Serving Infrastructure, AI Safety & Alignment  
 ```
 
 ### 📊 __GitHub Stats__
