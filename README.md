@@ -1,10 +1,6 @@
 
 ### Hi there 👋
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 ### 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
@@ -13,8 +9,7 @@ No activity tracked
 ```
 <!--END_SECTION:waka-->
 
-</td>
-<td valign="top" width="50%">
+---
 
 ### 👨‍💻 My Tool Box
 
@@ -25,10 +20,6 @@ Cloud Friends             : GCP, AWS
 Monitoring & Logging      : Grafana, ELK Stack  
 Research Interests        : Distributed Systems, AI Infra, Trustworthy AI
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
