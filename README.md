@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-📊 __This week I spent my time on__
+📊 __Weekly Activity Log__
 <!--START_SECTION:waka-->
 ```text
 No activity tracked
 ```
 <!--END_SECTION:waka-->
 
-### 👨‍💻 My Tool Box
+### 🛠️ __Core Skills & Interests__
 ```
-Languages I Speak: Python, Java, JavaScript
-DevOps Things I care about : Docker, Kubernetes
-Cloud Friends: GCP, AWS   
-Monitoring & Logging : Grafana, ELK Stack
-Researching on: Distributed Sytems, AI Model Serving Infrastructre, AI Safety and Alignment
+Languages & Frameworks: Python, Java, JavaScript  
+Infrastructure & DevOps: Docker, Kubernetes  
+Cloud Platforms: Google Cloud Platform, Amazon Web Services
+Observability & Monitoring: Grafana, ELK Stack
+Research Interests: Distributed Systems, AI Model Serving Infrastructure, AI Safety & Alignment  
 ```
 
-### 📊 GitHub Stats
+### 📊 __GitHub Stats__
 
 <p>
   <img src="https://raw.githubusercontent.com/SREEHARI-M-S/github-stats-transparent/a040096dee7c51d27c619311f00a790d125f42a9/generated/overview.svg" alt="GitHub stats of Sreehari" /> 
