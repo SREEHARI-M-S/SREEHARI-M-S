@@ -18,7 +18,7 @@ Researching on: Distributed Sytems, AI Model Serving Infrastructre, AI Safety an
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/SREEHARI-M-S/github-stats-transparent/a040096dee7c51d27c619311f00a790d125f42a9/generated/overview.svg" alt="GitHub stats of Sreehari" /> 
   <img src="https://raw.githubusercontent.com/SREEHARI-M-S/github-stats-transparent/a040096dee7c51d27c619311f00a790d125f42a9/generated/languages.svg" alt="GitHub languages of Sreehari" />
 </p>
