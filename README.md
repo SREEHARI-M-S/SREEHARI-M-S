@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+```
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -28,6 +29,7 @@
     </td>
   </tr>
 </table>
+```
 
 ### 📊 GitHub Stats
 
