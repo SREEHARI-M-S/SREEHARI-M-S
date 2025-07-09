@@ -13,3 +13,10 @@ Infrastructure & DevOps: Docker, Kubernetes
 Cloud Platforms: Google Cloud Platform, Amazon Web Services
 Observability & Monitoring: Grafana, ELK Stack
 ```
+
+📊 __This week I spent my time on__
+<!--START_SECTION:waka-->
+```text
+No activity tracked
+```
+<!--END_SECTION:waka-->
